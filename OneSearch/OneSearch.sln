@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneSearch", "OneSearch.csproj", "{72982DEA-E0A7-4274-B93B-93CE2279D6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSearchTests", "..\OneSearchTests\OneSearchTests.csproj", "{BEE80E7E-620B-4F75-B5A6-F4EAD5046DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72982DEA-E0A7-4274-B93B-93CE2279D6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72982DEA-E0A7-4274-B93B-93CE2279D6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72982DEA-E0A7-4274-B93B-93CE2279D6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72982DEA-E0A7-4274-B93B-93CE2279D6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE80E7E-620B-4F75-B5A6-F4EAD5046DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE80E7E-620B-4F75-B5A6-F4EAD5046DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE80E7E-620B-4F75-B5A6-F4EAD5046DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE80E7E-620B-4F75-B5A6-F4EAD5046DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2113C7B2-91CF-4DF9-BA88-A1BE180520E8}
+	EndGlobalSection
+EndGlobal
